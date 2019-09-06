@@ -9,6 +9,7 @@ the ROS and RS is provides in this repo.
 
 ## Demo:
 
+![img] https://honghaolyu.github.io/assets/images/posts/4-1.gif
 
 ## You can config this in your own PC follow the below steps:
 1. Clone this repo in your Windows PC, and creat a solution or station in your RS.
