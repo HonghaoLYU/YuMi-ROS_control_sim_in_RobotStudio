@@ -4,7 +4,7 @@ If you don't have a real yumi robot, now you can sim it in the RobotStudio, and 
 the ROS and RS is provides in this repo.
 
 #### Author: Honghao Lv
-#### Email:lvhonghao@zju.edu.cn
+#### Email: lvhonghao@zju.edu.cn
 #### Date-Version: 2019.9.6 V0.1
 
 ## Demo:
