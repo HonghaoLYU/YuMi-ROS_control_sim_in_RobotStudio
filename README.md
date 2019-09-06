@@ -12,8 +12,8 @@ the ROS and RS is provides in this repo.
 ![img](https://honghaolyu.github.io/assets/images/posts/4-1.gif)
 
 ## You can config this in your own PC follow the below steps:
-1. Clone this repo in your Windows PC, and creat a solution or station in your RS.
-Ps: You can load the rapid scripts through "Restore from System Backup". The system backup is in https://github.com/HonghaoLYU/YuMi-ROS_control_sim_in_RobotStudio/tree/master/Backups.
+1. Clone this repo in your Windows PC, and creat a solution or station in your RS.  
+Ps: You can load the rapid scripts through "Restore from System Backup". The system backup is in https://github.com/HonghaoLYU/YuMi-ROS_control_sim_in_RobotStudio/tree/master/Backups.  
 You also can config the rapid script though the independent rapid module documents in https://github.com/HonghaoLYU/YuMi-ROS_control_sim_in_RobotStudio/tree/master/Backups/YuMi_Simfor_ROS/HOME/ROS.
 2. If you want to use ROS to control the configed YuMi in RS, you need to clone the another repo of mine which has rivised for the simulation. https://github.com/HonghaoLYU/yumi_ws
 3. Config the repo of Yumi_ws in anothor PC or Vitual Machine (another independent PC installed ubuntu is better).
