@@ -1,0 +1,96 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: E:\WorkingDirectory\RobotStudio\Virtual System\TEMP\1567688587\backup.147797
+# 2019-09-06  16:29:29
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.06.01.00
+SmartGripper Version: 3.5.0
+
+  Contact L
+  Leadthrough
+  YuMi AbsAcc Recovery
+  RobotWare Base
+  Chinese
+  709-1 DeviceNet Master/Slave
+  841-1 EtherNet/IP Scanner/Adapter
+  603-1 Absolute Accuracy
+  988-1 RW Add-In Prepared
+  604-1 MultiMove Coordinated
+  608-1 World Zones
+  611-1 Path Recovery
+  612-1 Path Offset
+  613-1 Collision Detection
+  616-1 PC Interface
+  688-1 RobotStudio App Connect
+  617-1 FlexPendant Interface
+  623-1 Multitasking
+  1341-1/1520-1 Integrated Vision Interface
+  840-1 EtherNet/IP Anybus Adapter
+  Hall Sensor Calibration
+  Drive System IRB 14000
+  IRB 14000-0.5/0.5
+  SmartGripper
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB_R,,)
+SYSMOD\ROS_common.sys @ 
+SYSMOD\user.sys @ 
+PROGMOD\ROS_motion_right.mod @ 
+SYSMOD\LINKEDM.sys @ HIDDEN
+SYSMOD\ROS_messages.sys @ 
+SYSMOD\ROS_socket.sys @ 
+
+>>TASK2: (T_ROB_L,,)
+SYSMOD\ROS_common.sys @ 
+SYSMOD\user.sys @ 
+PROGMOD\ROS_motion_left.mod @ 
+SYSMOD\LINKEDM.sys @ HIDDEN
+SYSMOD\ROS_messages.sys @ 
+SYSMOD\ROS_socket.sys @ 
+
+>>TASK3: (ROS_MotionServer_Left,,)
+SYSMOD\ROS_common.sys @ 
+SYSMOD\user.sys @ 
+PROGMOD\ROS_motionServer_left.mod @ 
+SYSMOD\ROS_messages.sys @ 
+SYSMOD\ROS_socket.sys @ 
+
+>>TASK4: (ROS_MotionServer_Right,,)
+SYSMOD\ROS_common.sys @ 
+SYSMOD\user.sys @ 
+PROGMOD\ROS_motionServer_right.mod @ 
+SYSMOD\ROS_messages.sys @ 
+SYSMOD\ROS_socket.sys @ 
+
+>>TASK5: (ROS_StateServer_Left,,)
+SYSMOD\ROS_common.sys @ 
+SYSMOD\user.sys @ 
+PROGMOD\ROS_stateServer_left.mod @ 
+SYSMOD\ROS_messages.sys @ 
+SYSMOD\ROS_socket.sys @ 
+
+>>TASK6: (ROS_StateServer_Right,,)
+SYSMOD\ROS_common.sys @ 
+SYSMOD\user.sys @ 
+PROGMOD\ROS_stateServer_right.mod @ 
+SYSMOD\ROS_messages.sys @ 
+SYSMOD\ROS_socket.sys @ 
+
+
+>>EOF:
