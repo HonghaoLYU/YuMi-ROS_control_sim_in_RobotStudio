@@ -1,6 +1,7 @@
 # YuMi-ROS_control_sim_in_RobotStudio
 A interface for controling yumi simulated in RobotStudio (RS) through ROS.
 If you don't have a real yumi robot, now you can sim it in the RobotStudio, and the most important is that a interface between  
+the ROS and RS is provided in this repo.
 
 #### Author: Honghao Lv
 #### Email:lvhonghao@zju.edu.cn
