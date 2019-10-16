@@ -5,8 +5,13 @@ the ROS and RS is provided in this repo.
 
 #### Author: Honghao Lv
 #### Email:lvhonghao@zju.edu.cn
+#### Date-Version: 2019.10.16 V0.2
 #### Date-Version: 2019.9.6 V0.2
 #### Date-Version: 2019.9.6 V0.1
+
+## Requirements:
+OS: Ubuntu16.04
+ROS: Kinetic
 
 ## Demo:
 
@@ -22,8 +27,8 @@ You also can config the rapid script though the independent rapid module documen
 config the IP4 static adress of Ubuntu PC with ROS to 192.168.0.4. (has been revised, more details in V0.2 revise)
 PS: you need to shutdown the firewall of windows.
 5. start and run the sim yumi in RS, run the launch file in ubuntu:   
-5.1 roslaunch robot_interface_nogrippers.launch  
-5.2 roslaunch yumi_moveit_config moveit_planning_excuation_nogrippers.launch rviz:=true
+5.1 roslaunch yumi_support robot_interface_nogrippers.launch  
+5.2 roslaunch yumi_moveit_config moveit_planning_execution_nogrippers.launch rviz:=true
 6. enjoy it.
 
 ## V0.2 revise
