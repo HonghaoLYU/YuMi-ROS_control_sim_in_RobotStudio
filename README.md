@@ -21,7 +21,7 @@ ROS: Kinetic
 1. Clone this repo in your Windows PC, and creat a solution or station in your RS.  
 Ps: You can load the rapid scripts through "Restore from System Backup". The system backup is in https://github.com/HonghaoLYU/YuMi-ROS_control_sim_in_RobotStudio/tree/master/Backups.  
 You also can config the rapid script though the independent rapid module documents in https://github.com/HonghaoLYU/YuMi-ROS_control_sim_in_RobotStudio/tree/master/Backups/YuMi_Simfor_ROS/HOME/ROS.
-2. If you want to use ROS to control the configed YuMi in RS, you need to clone the another repo of mine which has rivised for the simulation. https://github.com/HonghaoLYU/yumi_ws
+2. If you want to use ROS to control the configed YuMi in RS, you need to clone the another repo of mine which has rivised for the simulation. https://github.com/HonghaoLYU/YuMi-ROS_control_code_in_ROS
 3. Config the repo of Yumi_ws in anothor PC or Vitual Machine (another independent PC installed ubuntu is better).
 4. Connect the two PC with one network cable if you use two PC and config the IP4 static adress of PC with RS to 192.168.0.1, and also  
 config the IP4 static adress of Ubuntu PC with ROS to 192.168.0.4. (has been revised, more details in V0.2 revise)
