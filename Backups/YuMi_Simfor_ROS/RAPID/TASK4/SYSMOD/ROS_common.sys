@@ -50,7 +50,7 @@ PERS bool ROS_new_trajectory_left  := FALSE; ! flag used to indicate when a new 
 PERS bool ROS_trajectory_lock_left := FALSE; ! flag used to prevent conflicts when reading
 PERS ROS_joint_trajectory_pt ROS_trajectory_left{MAX_TRAJ_LENGTH}; ! trajectory point array
 
-PERS num ROS_trajectory_size_right  := 14; ! size of trajectory point array
+PERS num ROS_trajectory_size_right  := 10; ! size of trajectory point array
 PERS bool ROS_new_trajectory_right  := FALSE; ! flag used to indicate when a new trajectory is available for reading
 PERS bool ROS_trajectory_lock_right := FALSE; ! flag used to prevent conflicts when reading
 PERS ROS_joint_trajectory_pt ROS_trajectory_right{MAX_TRAJ_LENGTH}; ! trajectory point array
